@@ -29,6 +29,7 @@ public class main {
 	 for (int i = 0; i < firstName.length; i++) {
 		 
 		 Solution p1 = new Solution(firstName[i],lastName[i], firstName[i].toLowerCase(),lastName[i].toLowerCase());
+		 System.out.println("Hello");
 		
 	 }
 	
